@@ -2,19 +2,16 @@
 
 ## 1. Informasi Penyusun
 
-- **Nama:** `[NAMA LENGKAP MAHASISWA]`
-- **NIM:** `[NOMOR INDUK MAHASISWA]`
-- **Program Studi:** `[PROGRAM STUDI]`
+- **Nama:** `[KADEK JULITA WIDIANTI]`
+- **NIM:** `[2515091010]`
+- **Program Studi:** `[S1 SISTEM INFORMASI]`
 - **Mata Kuliah:** Statistika dan Probabilitas
 
 ---
 
 ## 2. Deskripsi Proyek
 
-Pada bagian ini, jelaskan secara singkat dataset yang Anda gunakan. Apa saja variabel di dalamnya? Apa tujuan dari analisis yang Anda lakukan?
-
-*Contoh:*
-> Dataset yang digunakan adalah data `...` yang berisi informasi tentang `...`. Variabel kunci dalam dataset ini meliputi `variabel_A`, `variabel_B`, dan `variabel_C`. Tujuan dari proyek ini adalah untuk memahami karakteristik data melalui statistik deskriptif, menguji hubungan antara `variabel_A` dan `variabel_B` melalui analisis korelasi, serta memprediksi `variabel_C` menggunakan `variabel_A` sebagai prediktor melalui analisis regresi.
+> Dataset yang digunakan dalam proyek ini adalah data_startup_saas.csv yang berisi informasi komprehensif mengenai berbagai perusahaan rintisan (startup) berbasis Software as a Service (SaaS). Dataset ini mencakup beberapa informasi penting, yaitu Nama_Startup yang merepresentasikan identitas perusahaan, Kategori_Layanan yang menunjukkan jenis layanan digital yang ditawarkan, Pendapatan_Tahunan_Miliar_IDR sebagai ukuran pendapatan perusahaan dalam satu tahun, Biaya_Akuisisi_Pelanggan_Juta_IDR yang menggambarkan besarnya biaya yang dikeluarkan untuk memperoleh pelanggan baru, Nilai_Pelanggan_Juta_IDR yang mewakili nilai ekonomi pelanggan bagi perusahaan (customer value), serta Tingkat_Churn_Persen yang menunjukkan persentase pelanggan yang berhenti menggunakan layanan. Variabel kunci dalam analisis ini adalah Pendapatan_Tahunan_Miliar_IDR dan Nilai_Pelanggan_Juta_IDR, arena analisis difokuskan pada hubungan utama yang ingin dikaji, yaitu bagaimana nilai yang dihasilkan dari pelanggan berkaitan dengan pendapatan yang diperoleh perusahaan. Tujuan utama proyek ini adalah untuk memahami karakteristik data melalui analisis statistik deskriptif, menguji hubungan antara Nilai_Pelanggan_Juta_IDR dan Pendapatan_Tahunan_Miliar_IDR menggunakan analisis korelasi guna mengetahui arah dan kekuatan antara 2 variabel ini, serta membangun model regresi linier untuk memprediksi Pendapatan_Tahunan_Miliar_IDR dengan Nilai_Pelanggan_Juta_IDR sebagai variabel prediktor. Melalui pendekatan ini, diharapkan dapat memperoleh pemahaman yang lebih mendalam mengenai sejauh mana nilai pelanggan berkontribusi terhadap pendapatan tahunan startup SaaS, sekaligus memberikan analisis dasar untuk pengambilan strategi atau keputusan berbasis data.
 
 ---
 
@@ -46,7 +43,7 @@ Di bagian ini, mahasiswa diharapkan untuk menyajikan dan menginterpretasikan has
 
 ### 5.1. Statistik Deskriptif
 - **Ukuran Pemusatan (Mean, Median, Modus):**
-  - *Tabel atau ringkasan...*
+  - **
   - *Interpretasi:* Jelaskan apa arti dari nilai-nilai tersebut terkait dengan data Anda.
 - **Ukuran Sebaran (Standar Deviasi, Range, Kuartil):**
   - *Tabel atau ringkasan...*
